@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "MCM!"
+version = "0.1.0"
+description = "Prep files for MCM"
+authors = ["Chengrui Wang <vincentwcr041219@gmail.com>"]
